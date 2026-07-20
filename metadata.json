@@ -1,0 +1,6 @@
+{
+  "name": "Sunday Class Attendance",
+  "description": "A responsive bilingual English/Urdu attendance and RSVP tracker for Sunday classes, featuring category filters, an admin control panel, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
